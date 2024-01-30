@@ -1,0 +1,19 @@
+<div class="grand">
+  <div class="Major1">
+    <img class="thumbnail">
+  </div>
+  <div class="Major2">
+    <div class="side-logo"></div>
+    <div class="side-information">
+      <div class="div-text-content">
+        <p class="text-content"></p>
+      </div>
+      <div class="div-text-author">
+        <p class="text-author"></p>
+      </div>
+      <div class="div-text-stats">
+        <p class="text-stats"></p>
+      </div>
+    </div>
+  </div>
+</div>

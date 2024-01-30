@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>YouTube</title>
+    <link rel="stylesheet" href="youtube.css">
+  </head>
+  <body>
+    <div class ="div_search">
+      <center>
+        <input class="search_box" type="text" placeholder="Sreach here">
+      </center>
+    </div>
+
+   <div class="everyelements">
+    <div class="grand">
+      <div class="Major1">
+        <img class="thumbnail" src="thumbnails/thiruchitrambalam.webp">
+      </div>
+      <div class="Major2">
+         <div class="side-logo">
+          <img class="logos" src="profiles/megham.jpg">
+         </div>
+         <div class="side-information">
+            <div class="div-text-content">
+              <P class="text-content" >
+                Megham Karukatha - Official Video Song | Thiruchitrambalam | Dhanush | Anirudh | Sun Pictures
+              </P>
+            </div>
+            <div class="div-text-author">
+              <p class="text-author">
+                Sun TV
+              </p>
+            </div>
+            <div class="div-text-stats">
+              <p class="text-stats">
+                103M views &sdot; 5 months ago
+              </p>
+            </div>
+         </div>
+      </div>
+     </div>
+  
+  
+     <div class="grand">
+      <div class="Major1">
+        <img class="thumbnail" src="thumbnails/vilagathey.webp">
+      </div>
+      <div class="Major2">
+         <div class="side-logo">
+           <img class="logos" src="profiles/usuraya and vilagathey.jpg">
+         </div>
+         <div class="side-information">
+            <div class="div-text-content">
+              <p class="text-content"> Vilagathey Official Music Video [2K] - Stephen Zechariah ft Rakshita Suresh | T Suriavelan | Rupini </p>
+            </div>
+            <div class="div-text-author">
+                <p class="text-author"> 360 Entertainment Productions </p>
+            </div>
+            <div class="div-text-stats">
+               <p class="text-stats"> 20M views &sdot; 3 years ago </p>
+            </div>
+         </div>
+      </div>
+     </div>
+  
+  
+  <div class="grand">
+    <div class="Major1">
+      <img class="thumbnail" src="thumbnails/usuraya.webp">
+    </div>
+    <div class="Major2">
+      <div class="side-logo">
+        <img class="logos" src="profiles/usuraya and vilagathey.jpg">
+      </div>
+      <div class="side-information">
+        <div class="div-text-content">
+          <p class="text-content">
+            Usuraiya Tholaichaen - Stephen Zechariah | Pragathi Guruprasad | T Suriavelan | Rupini Anbalagan
+          </p>
+        </div>
+        <div class="div-text-author">
+          <p class="text-author">
+            360 Entertainment Productions
+          </p>
+        </div>
+        <div class="div-text-stats">
+          <p class="text-stats">
+            61M views &sdot; 5 years ago 
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="grand">
+    <div class="Major1">
+      <img class="thumbnail" src="thumbnails/chilla.webp">
+    </div>
+    <div class="Major2">
+      <div class="side-logo">
+        <img class="logos" src="profiles/chilla.jpg">
+      </div>
+      <div class="side-information">
+        <div class="div-text-content">
+          <p class="text-content">
+            Chilla Chilla - Thunivu Lyric Song (Tamil) | Ajith Kumar | H Vinoth | Anirudh | Ghibran
+          </p>
+        </div>
+        <div class="div-text-author">
+          <p class="text-author">
+            Zee Music South
+          </p>
+        </div>
+        <div class="div-text-stats">
+          <p class="text-stats">
+            49M views &sdot; 2 months ago
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="grand">
+    <div class="Major1">
+      <img class="thumbnail" src="thumbnails/pali.webp">
+    </div>
+    <div class="Major2">
+      <div class="side-logo">
+        <img class="logos" src="profiles/palivala.jpg">
+      </div>
+      <div class="side-information">
+        <div class="div-text-content">
+          <p class="text-content">
+            Vidya Vox - Be Free (Pallivaalu Bhadravattakam) ft. Vandana Iyer
+          </p>
+        </div>
+        <div class="div-text-author">
+          <p class="text-author">
+            Vidya Vox
+          </p>
+        </div>
+        <div class="div-text-stats">
+          <p class="text-stats">
+            381M views &sdot; 6 years ago
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+  <div class="grand">
+    <div class="Major1">
+      <img class="thumbnail" src="thumbnails/shiva.webp">
+    </div>
+    <div class="Major2">
+      <div class="side-logo">
+        <img class="logos" src="profiles/shivaprof.jpg">
+      </div>
+      <div class="side-information">
+        <div class="div-text-content">
+          <p class="text-content">
+            உவரி சுயம்புலிங்க சுவாமி பாடல்கள் | Uvari Suyambu Linga Swami Songs
+          </p>
+        </div>
+        <div class="div-text-author">
+          <p class="text-author">
+            SIVATHA MUSICALS
+          </p>
+        </div>
+        <div class="div-text-stats">
+          <p class="text-stats">
+           
+            7.2K views &sdot; 1 month ago
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="grand">
+    <div class="Major1">
+      <img class="thumbnail" src="thumbnails/thee.webp">
+    </div>
+    <div class="Major2">
+      <div class="side-logo">
+        <img class="logos" src="profiles/thee.jpg">
+      </div>
+      <div class="side-information">
+        <div class="div-text-content">
+          <p class="text-content">
+            Thee Thalapathy | Thalapathy Vijay | Varisu | STR | Vamshi Paidipally | Thaman
+          </p>
+        </div>
+        <div class="div-text-author">
+          <p class="text-author">
+            T-Series
+          </p>
+        </div>
+        <div class="div-text-stats">
+          <p class="text-stats">
+            63M views &sdot; 2 months ago
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+  <div class="grand">
+    <div class="Major1">
+      <img class="thumbnail" src="thumbnails/vaathi.webp">
+    </div>
+    <div class="Major2">
+      <div class="side-logo">
+        <img class="logos" src="profiles/vaathi.jpg">
+      </div>
+      <div class="side-information">
+        <div class="div-text-content">
+          <p class="text-content">
+            Vaa Vaathi Lyrical Song | Vaathi Songs | Dhanush, Samyuktha | GV Prakash Kumar | Venky Atluri
+          </p>
+        </div>
+        <div class="div-text-author">
+          <p class="text-author">
+            Aditya Music Tamil
+          </p>
+        </div>
+        <div class="div-text-stats">
+          <p class="text-stats">
+            39M views &sdot; 3 months ago
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+  <div class="grand">
+    <div class="Major1">
+      <img class="thumbnail" src="thumbnails/pachaellai.webp">
+    </div>
+    <div class="Major2">
+      <div class="side-logo">
+        <img class="logos" src="profiles/pachaellai.jpg">
+      </div>
+      <div class="side-information">
+        <div class="div-text-content">
+          <p class="text-content">
+            Love Today - Pacha Elai Lyric | @MorattuSingle | Yuvan Shankar Raja | AGS
+          </p>
+        </div>
+        <div class="div-text-author">
+          <p class="text-author">
+            Sony Music South
+          </p>
+        </div>
+        <div class="div-text-stats">
+          <p class="text-stats">
+            40M views &sdot; 4 months ago
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+  <div class="grand">
+    <div class="Major1">
+      <img class="thumbnail" src="thumbnails/unakul.webp">
+    </div>
+    <div class="Major2">
+      <div class="side-logo">
+        <img class="logos" src="profiles/unakul.jpg">
+      </div>
+      <div class="side-information">
+        <div class="div-text-content">
+          <p class="text-content">
+            Unakkul naane - pritt (lyrics) | music46
+          </p>
+        </div>
+        <div class="div-text-author">
+          <p class="text-author">
+            music 46
+          </p>
+        </div>
+        <div class="div-text-stats">
+          <p class="text-stats">
+            1.7M views &sdot; 1 month ago
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+  <div class="grand">
+    <div class="Major1">
+      <img class="thumbnail" src="thumbnails/thaikelavi.webp">
+    </div>
+    <div class="Major2">
+      <div class="side-logo">
+        <img class="logos" src="profiles/thaikelavi.jpg">
+      </div>
+      <div class="side-information">
+        <div class="div-text-content">
+          <p class="text-content">
+            Thaai Kelavi - Official Video Song | Thiruchitrambalam | Dhanush | Anirudh | Sun Pictures
+          </p>
+        </div>
+        <div class="div-text-author">
+          <p class="text-author">
+            Sun TV
+          </p>
+        </div>
+        <div class="div-text-stats">
+          <p class="text-stats">
+            99M views &sdot; 5 months ago
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+  <div class="grand">
+    <div class="Major1">
+      <img class="thumbnail" src="thumbnails/dancedance.webp">
+    </div>
+    <div class="Major2">
+      <div class="side-logo">
+        <img class="logos" src="profiles/dancedance.jpg">
+      </div>
+      <div class="side-information">
+        <div class="div-text-content">
+          <p class="text-content">
+            Lady Gaga - Bloody Mary (TikTok Remix | Speed Up) | Wednesday Dance Scene
+          </p>
+        </div>
+        <div class="div-text-author">
+          <p class="text-author">
+            itsAirLow
+          </p>
+        </div>
+        <div class="div-text-stats">
+          <p class="text-stats">
+            91M views &sdot; 1 month ago
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+   </div>
+
+  </body>
+</html>
+
+
+
+
+
+
+
+
+.search_box {
+  width : 500px;
+  height : 30px;
+  font-family : Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  border-color : grey;
+  border-radius: 15px;
+  border : solid;
+  display: inline;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left : 10px;
+
+}
+
+.everyelements {
+  margin-left : 118px;
+}
+
+.grand {
+  display : grid;
+  grid-template-rows : 1fr 1fr;
+  width : 250px;
+  border-right:2px solid #fff;
+    margin-left:2px;
+    margin-right:2px;
+    margin-bottom: 2px;
+    margin-top:2px;
+    float: left;
+}
+
+.Major1 {
+  height : 140px;
+  width : 250px;
+  display : inline-block;
+}
+.Major2 {
+  width : 250px;
+  display : grid;
+  grid-template-columns: 40px 210px;
+  height : 102px;
+}
+
+.side-logo {
+  width : 40px;
+  padding-top: 20px;
+}
+
+.logos {
+  height : 36px;
+  width : 36px;
+  border : none;
+  border-radius : 13px;
+}
+
+.text-content {
+  width : 210px;
+  font-size: 12px;
+  margin-bottom: 0px;
+  height : 42px;
+}
+
+.text-author{
+  font-size : 12px;
+  width : 210px;
+  display : inline-block;
+  margin-top : 2px;
+  margin-bottom : 0px;
+  height : 14px;
+}
+
+.text-stats {
+  font-size : 12px;
+  display : inline-block;
+  margin-top : 0px;
+  height : 14.67px;
+}
+
+.div-text-content {
+  display : inline-block;
+}
+
+.div-text-author {
+  display : inline-block;
+}
+
+.div-text-stats {
+  display : inline-block;
+}
+
+.thumbnail {
+  height : 140px;
+  width : 250px;
+  border : none;
+  border-radius : 5px;
+  cursor : pointer;
+}

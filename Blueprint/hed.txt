@@ -1,0 +1,192 @@
+ <div class="header-section">
+   <div class="header-left">
+    <div class="div-for-hamburger-menu">
+      <button class="button-for-hamburger-menu">
+        <img class="hamburger-menu-class" src="icons/hamburger-menu.svg">
+      </button>
+    </div>
+    <div class="div-for-youtube-logo">
+      <img class="youtube-logo-class" src="icons/youtube-logo.svg">
+    </div>
+   </div>
+   <div class="header-middle">
+      <div class="div-header-search-box">
+        <input class="Search-box" type="text" placeholder="Search">
+      </div>
+      <div class="div-header-search-button">
+      
+      </div>
+      <div class="div-header-mic-menu">
+          <img class="mic-menu-class" src="icons/voice-search-icon.svg">
+      </div>
+   </div>
+   <div class="header-right">
+    <div class="div-for-three-dots">
+      <img class="three-dots-class" src="icons/three-dots.svg">
+    </div>
+    <div class="div-for-signin-button">
+      <button class="signin-button">Sign in</button>
+    </div>
+   </div>
+ </div>
+    
+
+
+.Search-box {
+  width : 450px;
+  height : 36.67px;
+  border-color :gray;
+  border-width: 1px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius : 20px;
+  font-family : Roboto, Arial;
+  font-size : 16px;
+  border-style : solid;
+  display : block;
+  padding-left : 15px;
+  border-right : none;
+  margin-left : 75px;
+}
+
+
+.header-section {
+  height : 56px;
+  display : flex;
+  flex-direction: row;
+}
+
+.header-left {
+  width : 180px;
+  display: flex;
+  flex-direction : row;
+  justify-content : space-between;
+  align-items: center;
+}
+
+.header-right {
+  display : flex;
+  flex-direction : row;
+  width : 175px;
+  margin-left : 100px;
+  align-items: center;
+  padding-left : 50px;
+  margin-right : 10px;
+  cursor : pointer;
+  justify-content : space-between;
+}
+
+.header-middle {
+  display : flex;
+  flex-direction : row;
+  flex : 1;
+  margin-left : 148px;
+  align-items: center;
+}
+
+.header-search-button {
+  width : 70px;
+  background-color :blue;
+}
+
+.youtube-logo-class {
+  display : inline-block;
+  height : 56px;
+  width : 100px;
+}
+
+.hamburger-menu-class {
+  height : 24px;
+  width : 24px;
+}
+
+.div-for-hamburger-menu {
+  display : inline-block;
+  margin-left : 10px;
+  padding: 8px;
+}
+
+.div-for-youtube-logo {
+  display : inline-block;
+  height : 56px;
+  width : 100px;
+  padding : 18px 14px 18px 16px;
+}
+
+.signin-button {
+  height : 35px;
+  width : 100px;
+  border-radius : 17.5px;
+  color : rgb(65, 166, 255);
+  background-color: white;
+  border-style :hidden;
+  font-weight: 500;
+  font-size : 14px;
+  font-family: Roboto,Arial;
+  border-color :gray;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.signin-button:hover {
+  background-color : rgb(194, 227, 237);
+  transition: 1000ms;
+  color : darkblue;
+}
+
+.three-dots-class {
+  height : 15px;
+  width  : 15px;
+  padding : 11px;
+}
+
+.div-for-three-dots {
+  height : 40px;
+  width : 40px;
+  margin-right : 2px;
+  margin-left : 35px;
+}
+
+.div-for-signin-button {
+  display : inline-flex;
+  width : 100px;
+  height : 56px;
+  justify-content : center;
+  align-items: center;
+  margin-right :  20px;
+}
+
+.three-dots-class:hover {
+  opacity :0.4;
+  transition: 100ms;
+}
+
+
+.div-header-mic-menu {
+  width : 40px;
+  height : 40px;
+  background-color : darkgrey;
+  border-radius : 20px;
+  margin-left : 5px;
+}
+
+.mic-menu-class {
+  width : 24px;
+  height : 24px;
+  padding : 8px;
+}
+
+.div-header-mic-menu:hover,.div-header-search-button:hover {
+  opacity :0.6;
+  transition: 100ms;
+}
+
+.button-for-hamburger-menu {
+  border : none;
+  background-color: white;
+  width : 24px;
+}
+
+.button-for-hamburger-menu:hover {
+  opacity :0.4;
+  transition: 100ms;
+}

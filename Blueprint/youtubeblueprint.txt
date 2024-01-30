@@ -1,0 +1,24 @@
+ <div class="grandparent-class">
+      <div class="parent-class">
+        <img class="thumbnail" src="thumbnails/kolaveri.webp">
+        <div class="video-time">
+
+        </div>
+      </div>
+      <div class="parent-class1">
+        <div class="logo-class">
+          <img class="logo" src="profiles/kolaveri.jpg">
+        </div>
+        <div class="details-class">
+          <div class="info-class-details">
+            <p class="text-details"> </p>
+          </div>
+          <div class="info-class-author">
+            <p class="text-author"></p>
+          </div>
+          <div class="info-class-stats">
+            <p class="text-stats"></p>
+          </div>
+        </div>
+      </div>
+    </div>
